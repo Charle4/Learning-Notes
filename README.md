@@ -4,5 +4,5 @@ Notes taken during the course of some college math courses written in Chinese. C
 
 ## Contents
 
-- [数理统计](Source\mathematical_statistics.pdf)
+- [数理统计](PDF\mathematical_statistics.pdf)
 
